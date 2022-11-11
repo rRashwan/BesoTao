@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+  <head>
+    <title><BesoTao class="org"></BesoTao></title>
+  </head>
+  <body>
+    <h1 style="color: rgb(77, 0, 128); font-size: 60px; text-align: center;">FIFA WC Predictions (FOR OUR GROUP)</h1>
+    <p style="margin: 0 100px 0 100px; font-size: 1.5em;">Fuck HEADr</p>
+    <p>Soon</p>
+    <footer>
+      <hr>
+      <p style="text-align: center;" 
+         onclick="alert('EMAILING US IS USELESS');">
+         Tech Support: rrwashaandev@gmail.com
+
+      </p>
+    </footer>
+  </body>
+</html>
